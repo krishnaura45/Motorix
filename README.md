@@ -1,5 +1,7 @@
 # Motorix : DC Motor Controller
 
+Motorix is a <i>hardware</i> DC motor controller project based on <b>design and prototyping</b>
+
 ### INTRODUCTION
 A direct current (DC) motor is the oldest type of electrical motor that has gained widespread use in a variety of electronic devices and equipment. DC motors have different arrangements and operation peculiarities. The common feature and the essential condition of all DC motors is the generation of a variable magnetic field that provides their non-stop operation. A DC motor has some significant advantages, and one of them is the simplicity of its control system. 
 
